@@ -6,3 +6,4 @@ A web1 tantárgy anyagai
 - CSS direktívák
 - JavaScript programozás
 - CSS keretrendszerek
+- ...
