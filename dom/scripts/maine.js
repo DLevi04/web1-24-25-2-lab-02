@@ -18,5 +18,6 @@ if(nextBtn) {
 
 prevBtn.addEventListener('click', (e) => {
     counter = counter > 1 ? counter-- : counter;
+    setNumBtnContent(counter);
 });
 
